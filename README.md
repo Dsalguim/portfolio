@@ -11,7 +11,10 @@
 * CSS
 
 * Flex-box
+##Design
 
+* Figma
+  
 ## Feito por:
 
 ### DSALGUIM
