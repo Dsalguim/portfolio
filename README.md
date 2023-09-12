@@ -11,7 +11,6 @@
 * CSS
 
 * Flex-box
-##Design
 
 * Figma
   
