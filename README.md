@@ -15,7 +15,7 @@
 * Figma
 
 ## Screenshots
-![Screenshot da tela inicial do Alura Plus](https://imgur.com/BqoJDfJ)
+![Screenshot da tela inicial do Alura Plus](https://i.imgur.com/BqoJDfJ.jpg)
 
 ## Feito por:
 
